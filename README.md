@@ -2,6 +2,10 @@
 
 **Arknoid** is a classic arcade-style game where the player controls a paddle to bounce a ball and destroy all the blocks on the screen. It is inspired by the legendary "Breakout" game, and it provides a fun and challenging experience with various power-ups and different levels.
 
+## Gameplay
+
+![Gameplay GIF](GameplayVideo/Gameplay.gif)
+
 ## Features
 
 - **Classic gameplay**: Bounce a ball to break blocks..
@@ -9,9 +13,7 @@
 - **High score tracking**: Compete to get the highest score.
 - **Smooth animations**: Clean and responsive gameplay experience.
 
-## Gameplay
 
-![Gameplay GIF](GameplayVideo/Gameplay.gif)
 
 ### Controls
 
